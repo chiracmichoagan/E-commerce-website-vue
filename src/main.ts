@@ -3,7 +3,11 @@ import './assets/main.css'
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import 'font-awesome/css/font-awesome.min.css'
-
+import './assets/nouislider.min.css'
+import './assets/slick-theme.css'
+import './assets/slick.css'
+import './assets/base.css'
+import './assets/bootstrap.min.css'
 import App from './App.vue'
 import router from './router'
 // Font Awesome
